@@ -1,0 +1,23 @@
+{
+  "name": "entypo",
+  "repository": "tipm/entypo",
+  "description": "Entypo Font Helper",
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "codes.js"
+  ],
+  "fonts": [
+    "fonts/entypo.ttf",
+    "fonts/entypo-social.ttf"
+  ]
+}
